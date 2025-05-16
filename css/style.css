@@ -1,0 +1,142 @@
+@charset "UTF-8";
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+}
+body {
+	background-color: #3c7f72;
+	
+}
+
+.navbar {
+	background-color: #ff5757 !important;
+}
+#mainHeader {
+	font-family: Shrikhand;
+	color: black;
+	text-shadow: 2px 2px 4px black;
+	font-size: 70px;
+}
+
+.shrikhand-regular {
+  font-family: "Shrikhand", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.league-spartan-<uniquifier> {
+  font-family: "League Spartan", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.navbar-brand {
+	font-family: League Spartan;
+	text-shadow: 2px 2px 4px black;
+	color: white !important;
+}
+
+#navbarSupportedContent1 {
+	font-family: League Spartan;
+	color: white !important;
+	text-shadow: 2px 2px 4px black;
+}
+
+.btn-primary {
+	font-family: League Spartan;
+	background-color: #ffffff !important;
+	text-shadow: none;
+	color: #000000;
+}
+
+h2 {
+	font-family: Shrikhand;
+	color: white;
+	font-size: 50px;
+	text-shadow: 2px 2px 4px black;
+}
+
+.carousel-item {
+	background-color: #3c7f72;
+}
+
+h5 {
+	font-family: Shrikhand;
+	font-size: 30px;
+	text-shadow: 2px 2px 4px black;
+	background-color: #ff5757;
+	border-radius: 10px;
+}
+
+p {
+	font-family: League Spartan;
+	font-size: 18px;
+	color: black;
+}
+
+#calltoaction {
+	margin-left: 850px;
+	height: 50px;
+	width: 200px;
+	font-size: 20px;
+}
+
+#myCarousel {
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.display-4 {
+	font-family: Shrikhand;
+}
+
+.lead {
+	margin-top: 20px;
+}
+
+.nav-link {
+	color: white !important;
+	opacity: 80%;
+}
+
+.jumbotron {
+	background-color: #a6a6a6;
+	color: #000000;
+}
+
+.carouselCaption {
+	background-color: #ff5757;
+	border-radius: 10px;
+}
+
+.carousel-control-next-icon {
+	background-color: #ff5757;
+	height: 100px;
+	width: 50px;
+}
+
+.carousel-control-prev-icon {
+	background-color: #ff5757;
+	height: 100px;
+	width: 50px;
+}
+
+#mywork div {
+	background-color: #3c7f72;
+	border-radius: 30px;
+	padding: 10px;
+	
+}
+
+.myWork {
+	margin: 40px;
+	background-color: #a6a6a6;
+	padding: 50px;
+	border-radius: 40px;
+	text-align: center;
+}
+
+footer {
+	background-color: #ff5757;
+}
